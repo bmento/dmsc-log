@@ -9,10 +9,3 @@ In the begining of the semsester we talked a lot about emergence and interactive
 ![Screen Shot 2021-05-16 at 7.43.34 PM.png]({{site.baseurl}}/Screen Shot 2021-05-16 at 7.43.34 PM.png)
 ![Screen Shot 2021-05-16 at 7.43.13 PM.png]({{site.baseurl}}/Screen Shot 2021-05-16 at 7.43.13 PM.png)
 ![Screen Shot 2021-05-16 at 7.42.48 PM.png]({{site.baseurl}}/Screen Shot 2021-05-16 at 7.42.48 PM.png)
-
-
-
-
-
-
-
