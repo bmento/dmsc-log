@@ -4,10 +4,13 @@ Devlog for Drawing, Moving and Seeing Code
 ## Class Notes
 Notes from class 
 
+## A-Life Assignment 3/10/21
 
-5/6/21
-Alright so I have clearly not touched this log since the first weeks of class and thats my fault. I missed half of the 2nd week becuase my house flooded and then becuase of that I was displaced and couldn't make it to class the following week. These early absents definitely set me behind and while trying to manage with other classes, my job, and my home life, I just struggled to find the time to catch up. My plan is to go through the assignments where I was to post on here and explain what I did at the time, becuse I was doing the coding for this class, I just completely fotgot to update this in the process.
+So a great example of artificial intelligence is the NPCs in GTA. They walk around the city and have their own dialogue and interact with the player when they get close. They can also interact with other NPCs for example if they are crashed/bumped into, they will become aggressive. They will also react to what the player does around them. For example, if you pull out a weapon near a group of NPCs they will run away from you in fear, or if they are aggressive NPCs, they all start to attack you. This shows emergence because they operate both by themselves and in reaction to the environment around them. This relationship causes them to have this sense of realness and they almost react as real human beings would. Without emergence implemented into their code, they would just walk around and never react to the game environment and it would feel super out of place. Emergence to me is when an object has its own functionality but also can react to different stimuli in its environment. 
 
+(screenshots on moodle)
+
+https://editor.p5js.org/brock.mento/full/QRXn9D_bY
 
 ## Squirell Group Project Log
 
