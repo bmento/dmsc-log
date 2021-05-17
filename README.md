@@ -12,6 +12,15 @@ So a great example of artificial intelligence is the NPCs in GTA. They walk arou
 
 https://editor.p5js.org/brock.mento/full/QRXn9D_bY
 
+
+## Hydra Practice 4/8/21
+
+I thought using hydra was really interesting. I would go through the random ones, and pull out code that I would put in a text document and then I would mash them together to see the results. I felt that it was a little hard to figure out proper format becuase it was a completly new languange. However I think I managed to understand it a little more the longer I messed with it. 
+
+
+
+
+
 ## Squirell Group Project Log
 
 This the devolg post for my work and experience working on the squirel project. I worked with Chris, Monty, and Quincy.  We first started out by
