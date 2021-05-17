@@ -29,7 +29,6 @@ https://editor.p5js.org/quincywashington/sketches/8I4NXn2g8C
 
 ## FINAL PROJECT LOG
 
-# Inspirations
 
 In the begining of the semsester we talked a lot about emergence and interactive enviorments and my project for that was to create a duck pond that would have bread that they could eat. One of my favorite games is untitled goose game, where you get to run around do fun things as a goose. I loved the artstyle and the basic premise of the game so I felt like making my own (much less cool) version of it. We also needed to have procedural generation so I felt that the map was the easiest to impliment for that task. My game is based on the grid generation that we went over in class and has 5 levels of increasing dificulty. (pictured below)
 
@@ -38,3 +37,10 @@ In the begining of the semsester we talked a lot about emergence and interactive
 ![Screen Shot 2021-05-16 at 7.43.34 PM.png]({{site.baseurl}}/Screen Shot 2021-05-16 at 7.43.34 PM.png)
 ![Screen Shot 2021-05-16 at 7.43.13 PM.png]({{site.baseurl}}/Screen Shot 2021-05-16 at 7.43.13 PM.png)
 ![Screen Shot 2021-05-16 at 7.42.48 PM.png]({{site.baseurl}}/Screen Shot 2021-05-16 at 7.42.48 PM.png)
+
+
+Once I got the generation to work, I worked on aesthetics for a little bit. I changed the background to blue for the water, and then had 8-bit lily pads spawn in the location the blocks were spawning in. I ran into a little trouble here because I wasn't sure where to impliment it, but after a few trial and errors, I figured it out. 
+![Screen Shot 2021-05-16 at 7.40.04 PM.png]({{site.baseurl}}/Screen Shot 2021-05-16 at 7.40.04 PM.png)
+After this I got an image of a duck that I could use and just replaced the ball I was originally working with and it was time to impliment the bread. Becuase I wanted 5 to spawn, I started by making an array and a variable that would determine the max amount. I also relized that I wanted them to spawn essentially the same way as the duck, so all I had to do was take the players code and duplicate it. I got them spawning in random locations and then went to work on the hit boxes. When I originally wrote the code, I felt that having vectors for the positioning was the easiest way to do hit-boxes. However this proved to be the biggest challenge and it took me a long time and a phone-a-friend to figure out how to do it. You can see the code below.
+![Screen Shot 2021-05-16 at 7.41.17 PM.png]({{site.baseurl}}/Screen Shot 2021-05-16 at 7.41.17 PM.png)
+
