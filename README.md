@@ -17,6 +17,8 @@ https://editor.p5js.org/brock.mento/full/QRXn9D_bY
 
 I thought using hydra was really interesting. I would go through the random ones, and pull out code that I would put in a text document and then I would mash them together to see the results. I felt that it was a little hard to figure out proper format becuase it was a completly new languange. However I think I managed to understand it a little more the longer I messed with it. 
 
+![Screen Shot 2021-04-15 at 1.20.10 PM.png]({{site.baseurl}}/Screen Shot 2021-04-15 at 1.20.10 PM.png)
+![Screen Shot 2021-04-15 at 1.22.07 PM.png]({{site.baseurl}}/Screen Shot 2021-04-15 at 1.22.07 PM.png)
 
 
 
